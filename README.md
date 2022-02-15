@@ -9,5 +9,5 @@ Pré-requis :
 - une clé maxmind
 
 ## Pour utiliser le script :
-Créer un fichier **key** dans le répertoire du script. Ce fichier doit contenir uniquement votre clé maxmind sur la première ligne.
+Créer un fichier ***key*** dans le répertoire du script. Ce fichier doit contenir uniquement votre clé maxmind sur la première ligne.
 Lancer le script avec python 3.
